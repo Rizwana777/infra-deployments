@@ -3,4 +3,3 @@ kind: Kustomization
 
 resources:
 - ../../base
-- subscription-openshift-gitops.yaml
